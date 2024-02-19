@@ -134,7 +134,7 @@ const UserPreferences = ({
   );
 };
 
-const noop = () => {};
+const noop = () => { };
 
 UserPreferences.propTypes = {
   disabled: PropTypes.bool,

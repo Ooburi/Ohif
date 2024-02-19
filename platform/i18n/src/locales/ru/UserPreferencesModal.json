@@ -5,5 +5,10 @@
   "ResetDefaultMessage": "Настройки будут сброшены к настройкам по умолчанию. <br /> Нужно <strong>Сохранить</strong> чтобы выполнить это действие",
   "Save": "$t(Buttons:Save)",
   "SaveMessage": "Настройки сохранены",
-  "User preferences": "Пользовательские настройки"
+  "User preferences": "Пользовательские настройки",
+  "Function": "Фуникции",
+  "Shortcut": "Сокращения",
+  "Language": "Язык",
+  "Hotkeys": "Горячие клавиши",
+  "General": "Общие"
 }
