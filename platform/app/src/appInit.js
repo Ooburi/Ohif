@@ -29,7 +29,7 @@ import loadModules from './pluginImports';
  */
 async function appInit(appConfigOrFunc, defaultExtensions, defaultModes) {
   const commandsManagerConfig = {
-    getAppState: () => {},
+    getAppState: () => { },
   };
 
   const commandsManager = new CommandsManager(commandsManagerConfig);

@@ -1,0 +1,13 @@
+{
+  "Download High Quality Image": "Загрузить изображение высокого качества",
+  "Cancel": "Отмена",
+  "Download": "Загрузить",
+  "File Name": "Имя файла",
+  "Active viewport has no displayed image": "Активное окно не содержит изображения",
+  "Image preview": "Предпросмотр изображения",
+  "Show Annotations": "Показать аннотации",
+  "File Type": "Тип файла",
+  "Image height (px)": "Высота изображения (px)",
+  "Image width (px)": "Ширина изображения(px)",
+  "Please specify the dimensions, filename, and desired type for the output image.": "Пожалуйста уточните размеры, имя файла и желаемый формат выходного изображения"
+}

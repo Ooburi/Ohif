@@ -254,10 +254,12 @@ function SegmentationToolbox({ servicesManager, extensionManager }) {
 
   return (
     <AdvancedToolbox
-      title="Segmentation Tools"
+      //title="Segmentation Tools"
+      title="Инструменты"
       items={[
         {
           name: 'Brush',
+          // name: 'Кисть',
           icon: 'icon-tool-brush',
           disabled: !toolsEnabled,
           active:
@@ -290,6 +292,7 @@ function SegmentationToolbox({ servicesManager, extensionManager }) {
         },
         {
           name: 'Eraser',
+          // name: 'Ластик',
           icon: 'icon-tool-eraser',
           disabled: !toolsEnabled,
           active:
@@ -322,6 +325,7 @@ function SegmentationToolbox({ servicesManager, extensionManager }) {
         },
         {
           name: 'Shapes',
+          // name: 'Фигуры',
           icon: 'icon-tool-shape',
           disabled: !toolsEnabled,
           active:
@@ -346,6 +350,7 @@ function SegmentationToolbox({ servicesManager, extensionManager }) {
         },
         {
           name: 'Threshold Tool',
+          // name: 'Уровни',
           icon: 'icon-tool-threshold',
           disabled: !toolsEnabled,
           active:

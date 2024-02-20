@@ -20,9 +20,13 @@ import TrackedCornerstoneViewport from './TrackedCornerstoneViewport.json';
 import UserPreferencesModal from './UserPreferencesModal.json';
 import ViewportDownloadForm from './ViewportDownloadForm.json';
 import Messages from './Messages.json';
+import Modals from './Modals.json';
+import PatientInfo from './PatientInfo.json';
 
 export default {
   'ru': {
+    PatientInfo,
+    Modals,
     AboutModal,
     Buttons,
     CineDialog,
